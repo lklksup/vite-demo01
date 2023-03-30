@@ -7,5 +7,6 @@ import Header from './Header/index.vue'
 </script>
       
 <style lang="less" scoped>
+
 </style>
       
